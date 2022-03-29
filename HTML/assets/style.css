@@ -1,0 +1,50 @@
+.header{
+    display: inline;
+    margin: auto;
+}
+.header *{
+    display: inline;
+}
+ul{
+    list-style: none;
+    display: inline;
+}
+
+/* main links */
+
+.mainLinks {
+    margin: 30px auto 30px auto;
+}
+
+.mainLinks .mainLinks__lista{
+    display: inline-block;
+}
+
+.mainLinks .mainLinks__slider{
+    display: inline-block;
+}
+
+/*textos*/
+
+.textosIntervalentes .textosIntervalentes__textoDerecha{
+    text-align: right;
+}
+
+.textosIntervalentes {
+    width: 70%;
+    margin: auto;
+}
+ 
+/*tarjetas*/
+
+.sectionTarjetas{
+    display: block;
+    margin: auto;
+}
+
+.tarjeta{
+    width: 210px;
+    height: 320px;
+    text-align: center;
+    display: inline-block;
+}
